@@ -4,9 +4,8 @@
 
 ---
 
-## 🌐 Live Website
+##  Live Link: https://praveen-kumar-prajapati.vercel.app/ 
 
-- 🔗 Portfolio: https://praveen-1406.github.io  
 - 💼 LinkedIn: https://www.linkedin.com/in/praveen-298278257  
 - 🐙 GitHub: https://github.com/praveen-1406  
 - 📄 Resume: https://drive.google.com/file/d/10dULAPAr72F6I471XSq-j__nLBz7HDEE/view?usp=sharing 
