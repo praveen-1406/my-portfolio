@@ -103,7 +103,7 @@ const Hero = () => {
               </Button>
               </a>
 
-              <a href="/Praveen_Kumar_Prajapati_(Resume).pdf" download="Praveen_Kumar_Prajapati_(Resume).pdf">
+              <a href="/My_Resume__V2_.pdf" download="Praveen_Kumar_Prajapati_(Resume).pdf">
                 <AnimatedBorderButton >
                 <Download className="w-5 h-5"/>
                 Download Resume
@@ -140,7 +140,7 @@ const Hero = () => {
               <div className='absolute inset-0 rounded-3xl bg-linear-to-br from-primary/30 via-transparent to-primary/10 blur-2xl animate-pulse' />
               <div className='relative glass rounded-3xl p-2 glow-border'>
 
-                <img src="/profilepic.png" alt="Praveen Kumar Pajapati" className='w-full aspect-4/5 object-cover rounded-2xl' />
+                <img src="/grayscale.png" alt="Praveen Kumar Pajapati" className='w-full aspect-4/5 object-cover rounded-2xl' />
 
                 {/* Floating Badge */}
                 <div className='absolute -bottom-4 -right-4 glass rounded-xl px-4 py-3 animate-float'>

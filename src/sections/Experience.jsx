@@ -1,37 +1,29 @@
 const experiences = [
   {
-    period: "Jan-2026 — Present",
-    role: "Web Developer",
-    company: "Open to work",
+    period: "July-2026 — Present",
+    role: "AI Systems Evaluation Intern",
+    company: "AirDawg Labs",
     description:
-      "Am passionate and curious web developer, always willing to learn new thing. I can adapt on different technologies easily in short time.",
-    technologies: ["React", "Node.js", "MongoDB", "Express", "NextJS"],
+      "Configured isolated testing environments using Docker sandboxes and Ubuntu to safely execute and evaluate AI coding agents. Engineered command-line evaluation tasks for Project Terminus, designing challenges modeled after the Terminal Bench 2.0 format to assess AI coding agents on real-world system interactions. Analyzed model failure modes and edge cases during agent workflows, documenting diagnostic feedback to support improvements in agent reasoning using the Harbor framework.",
+    technologies: ["Docker", "Ubuntu", "Bash", "AI Agents", "AI Benchmarking"],
     current: true,
   },
   {
-    period: "Sept-2025 — Dec-2025",
-    role: "Full-Stack Engineer Intern",
-    company: "Xoundspire",
+    period: "June-2026 — July-2026",
+    role: "Intern",
+    company: "Tata Motors Limited",
     description:
-      "Built and maintained multiple React applications for enterprise clients. Introduced automated testing practices that improved code coverage to 85%.",
-    technologies: ["React", "Redux", "ShadCN","Express","Typescript","Tanstack"],
+      "Contributed to an internal messaging prototype (Socket.io) as a self-hosted communication alternative. Collaborated to map workflows transitioning internal canteen ordering from manual to digital workflows. Gained exposure to industrial IT operations under the supervision of the Plant Lead (IT Operations). Explored enterprise manufacturing IT operations, observing how barcode scanning pipelines synchronize with SAP and IPMS 4.0 to track production and inventory on the shop floor.",
+    technologies: ["IT Operations" ,"Workflow"],
     current: false,
   },
-  {
-    period: "2022 — Present",
-    role: "Personal Projects",
-    company: "Student",
-    description:
-      "Learning Full-Stack architecture for a MERN application. Collaborate with friends",
-    technologies: ["React", "Express", "NodeJS", "TypeScript", "Next.js", "GraphQL"],
-    current: true,
-  },
+  
 
 ];
 
 const Experience = () => {
   return (
-    <section id="experience" className="py-32 relative overflow-hidden">
+    <section id="experience" className="py-32 relative overflow-hidden md:px-7 lg:px-32">
       <div
         className="absolute top-1/2 left-1/4  w-96 h-96 bg-primary/5 rounded-full blur-3xl -translate-y-1/2 "
       />

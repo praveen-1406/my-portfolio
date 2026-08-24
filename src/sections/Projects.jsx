@@ -31,7 +31,7 @@ const projects = [
     description: "An application for storing and saving content.",
     image: "/projects/Proj4.png",
     tages: ["React", "NodeJS"],
-    link: "https://github.com/praveen-1406/PasteApp",
+    link: "https://paste-app-ten-kappa.vercel.app/",
     githb: "https://github.com/praveen-1406/PasteApp",
   },
 ]
@@ -40,7 +40,7 @@ const Projects = () => {
   return (
     <section
       id="projects"
-      className="py-32 relative overflow-hidden"
+      className="py-32 relative overflow-hidden md:px-7 lg:px-32"
     >
       {/* BG glows */}
       <div className="absolute top-1/4 right-0 w-96 h-96 bg-primary/20 rounded-full blur-3xl" />
